@@ -3,5 +3,5 @@ pandas==2.2.1
 numpy==1.26.4
 plotly==5.22.0
 matplotlib==3.8.4
-openpyxl==3.1.2  # 读取Excel文件需此库
-xlrd==2.0.1      # 读取旧版Excel文件需此库
+openpyxl==3.1.2
+xlrd==2.0.1
